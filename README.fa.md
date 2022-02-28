@@ -21,12 +21,11 @@
 [<img src="https://i.imgur.com/ye2O2B2.png" width=250>](https://i.imgur.com/ye2O2B2.png)
 [<img src="https://i.imgur.com/olkk2cB.png" width=250>](https://i.imgur.com/olkk2cB.png)
 
-## نمونه
+## نسخه نمایشی
 <img src='gifs/gif_1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 
-## Contribution
-If you have any ideas or issues, don't hesitate to make contact via the Issues page. Every contribution is welcome. See [Contributing](https://github.com/martykan/forecastie/blob/master/CONTRIBUTING.md) for further information.
+## مشارکت اگر ایده یا مشکلی دارید، در تماس با ما از طریق صفحه مشکلات دریغ نکنید. هر مشارکتی پذیرفته می شود. برای اطلاعات بیشتر به [مشارکت](https://github.com/martykan/forecastie/blob/master/CONTRIBUTING.md) مراجعه کنید.
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
