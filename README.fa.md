@@ -32,7 +32,7 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
-## Licence
+## مجوز
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
 This application is Free Software: You can use, study share and improve it at your
