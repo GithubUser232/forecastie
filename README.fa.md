@@ -25,7 +25,8 @@
 <img src='gifs/gif_1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 
-## مشارکت اگر ایده یا مشکلی دارید، در تماس با ما از طریق صفحه مشکلات دریغ نکنید. هر مشارکتی پذیرفته می شود. برای اطلاعات بیشتر به [مشارکت](https://github.com/martykan/forecastie/blob/master/CONTRIBUTING.md) مراجعه کنید.
+## مشارکت
+ اگر ایده یا مشکلی دارید، در تماس با ما از طریق صفحه مشکلات دریغ نکنید. هر مشارکتی پذیرفته می شود. برای اطلاعات بیشتر به [مشارکت](https://github.com/martykan/forecastie/blob/master/CONTRIBUTING.md) مراجعه کنید.
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
